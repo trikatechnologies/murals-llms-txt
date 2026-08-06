@@ -1,9 +1,9 @@
 {
-  "name": "ads-txt",
-  "vendor": "vtex",
+  "name": "llms-txt-app",
+  "vendor": "muralsyourway",
   "version": "1.0.0",
-  "title": "Ads Txt",
-  "description": "Adds a custom ads.txt file to the root domain",
+  "title": "LLMs Txt App",
+  "description": "Adds a custom llms.txt file to the root domain",
   "mustUpdateAt": "2018-01-04",
   "categories": [],
   "dependencies": {},
@@ -24,11 +24,11 @@
     }
   ],
   "settingsSchema": {
-    "title": "Ads Txt Configuration",
+    "title": "LLMs Txt Configuration",
     "type": "object",
     "properties": {
       "textContent": {
-        "title": "Text content for the ads.txt file",
+        "title": "Text content for the llms.txt file",
         "type": "string"
       }
     }
