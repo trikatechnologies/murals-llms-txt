@@ -1,7 +1,7 @@
 {
   "name": "llms-txt-app",
   "vendor": "muralsyourway",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "title": "LLMs Txt App",
   "description": "Adds a custom llms.txt file to the root domain",
   "mustUpdateAt": "2018-01-04",
